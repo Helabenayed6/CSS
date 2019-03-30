@@ -1,0 +1,74 @@
+body{
+margin:0px;
+}
+.cover {
+background-image: url(https://images.unsplash.com/photo-1532972190883-11c46c01030b?ixlib=rb-0.3.5%E2%80%A6gb&w=1080&fit=max&ixid=eyJhcHB);
+background-position:center;
+width:100%;
+height: 450px;
+margin-top: 0px;
+background-size:cover;
+padding: 50px;
+box-shadow: 1px 1px 1px rgba(0, 0, 0, .5);}
+.text{font-family:'Bree Serif', serif;color: white;position: relative;top: 40%;text-shadow: 1px 1px 2px rgba(0, 0, 0, .6);font-size: 6em}
+.container{width:80%;margin:auto;padding:auto;}
+.title{color: rgba(34, 50, 95);font-size: 50px;font-family:'Bree Serif', serif;margin: margin-top: 30px;
+    margin-right: 0px;margin-bottom: 40px;margin-left: 30px;text-shadow: 1px 1px 1px rgba(0, 0, 0, .5);padding: 0}
+    .box{background-color: #eee;padding: 45px;width: 49%;
+    display: inline-block;
+    height: 350px;
+    box-sizing: border-box;
+    overflow: hidden;
+    z-index: 1;
+    transition: all .3s;}
+    .box2{background-color: #eee;padding: 45px;width: 49%;
+    display: inline-block;
+    height: 350px;
+    box-sizing: border-box;
+    overflow: hidden;
+    z-index: 1;
+    transition: all .3s;}
+    .articlebody{font-family:'Bree Serif', serif;font-size: 15px;display: justify;}
+    .articlebody2{font-family:'Bree Serif', serif;font-size: 15px;display: justify;}
+    .article-title1{font-size: 20px;font-family:'Bree Serif', serif;color: green}
+    .article-title2{font-size: 20px;font-family:'Bree Serif', serif;color: green}
+    .box:hover{ outline: 6px solid rgb(0, 0, 0);transition: all .3s;outline-offset: -6px;}
+    .box3{background-color: #333;padding: 45px;width: 49%;
+    display: inline-block;
+    height: 350px;
+    box-sizing: border-box;
+    overflow: hidden;
+    z-index: 1;
+    transition: all .3s;}
+    .articlebody3{font-family:'Bree Serif', serif;font-size: 15px;display: justify;color: white}
+   .article-title3{font-size: 20px;font-family:'Bree Serif', serif;color:yellow;}
+   .box4{background-color: #333;padding: 45px;width: 49%;
+    display: inline-block;
+    height: 350px;
+    box-sizing: border-box;
+    overflow: hidden;
+    z-index: 1;
+    transition: all .3s;}
+    .article-title4{font-size: 20px;font-family:'Bree Serif', serif;color:yellow;padding: -10px;margin-top: 30px}
+    .articlebody4{font-family:'Bree Serif', serif;font-size: 15px;display: justify;color: white;margin-top: -10px}
+    .box5{background-color: #eee;padding: 45px;width: 49%;
+    display: inline-block;
+    height: 350px;
+    box-sizing: border-box;
+    overflow: hidden;
+    z-index: 1;
+    transition: all .3s;}
+    .article-title5{font-size: 20px;font-family:'Bree Serif', serif;color:tomato}
+    .articlebody5{font-family:'Bree Serif', serif;font-size: 15px;display: justify;color: black;margin-top: -10px}
+    .box6{background-color: #eee;padding: 45px;width: 49%;
+    display: inline-block;
+    height: 350px;
+    box-sizing: border-box;
+    overflow: hidden;
+    z-index: 1;
+    transition: all .3s;}
+    .article-title6{font-size: 20px;font-family:'Bree Serif', serif;color:tomato}
+    .articlebody6{font-family:'Bree Serif', serif;font-size: 15px;display: justify;color: black;margin-top: -10px}
+    .box2:hover{ outline: 6px solid green;transition: all .3s;outline-offset: -6px;color: green}
+    .box4:hover{outline: 6px solid green;transition: all .3s;outline-offset: -6px;color: yellow}
+    .articlebody4:hover{color: yellow}
